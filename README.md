@@ -5,7 +5,15 @@
 ## 🚀 Skills
 - **Programming:** JavaScript, C#, C, Node.js, Angular, Ionic  
 - **Databases:** SQL Server, MongoDB  
-- **Tools:** Git, VS Code, Excel, Visual Paradigm  
+- **Tools:** Git, VS Code, Excel, Visual Paradigm
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+ 
 
 ## 🏢 Work & Experience
 - Part-time Sales Representative at Gilani (Customer Engagement & Sales)  
@@ -22,3 +30,5 @@
 
 ## 🌟 Fun Fact
 I love combining creativity with technology 🎨💻
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prinkaprinka&show_icons=true&theme=radical)
+
